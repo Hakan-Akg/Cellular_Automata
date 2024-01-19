@@ -1,0 +1,23 @@
+Q: Can topological or any other directionality effect explain why universe is 3-dimensional?
+Can it be shown that a particular underlying directionality necessarily points towards 3dimensional surfaces?
+(Hence explaining reason for 3dimensional space as a result of mathemetical structure)
+
+
+Q:Like "RAYFISH: AN EMERGENT PROPAGATOR", can all emergent propagators for all param regimes be predicted by using ML?
+
+
+Useful study links:
+https://www.youtube.com/playlist?list=PLvA_gXIhzZNXdAyEGJaSA2X15-ibaXh7P
+
+https://math.libretexts.org/Bookshelves/Scientific_Computing_Simulations_and_Modeling/Book%3A_Introduction_to_the_Modeling_and_Analysis_of_Complex_Systems_(Sayama)
+
+
+
+Questions to ask:
+
+-"The Cantor set that defines the state space becomes simply
+connected at λ = 0.5, which is accompanied by a sudden
+change in the average density"
+
+Q:How it becomes "simply connected"?
+
